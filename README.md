@@ -113,6 +113,14 @@ The project follows a scalable full-stack architecture using React for the front
 
 # 🛠 Tech Stack
 
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="docs/orbit-hrms-architecture.png" alt="Orbit HRMS System Architecture" width="100%"/>
+</p>
+
+Orbit HRMS follows a modular full-stack architecture where the React frontend communicates with the Node.js and Express backend through RESTful APIs. Authentication and role-based access are handled using JWT, while application data is persisted in a lightweight JSON-based data store.
+
 ## Frontend
 
 - React
