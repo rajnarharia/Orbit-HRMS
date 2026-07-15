@@ -28,6 +28,11 @@ Orbit HRMS is a modern Human Resource Management System designed for organizatio
 The project follows a scalable full-stack architecture using React for the frontend and Express.js for the backend while storing data in a lightweight JSON database.
 
 ---
+## 🎥 Live Demo Preview
+
+<p align="center">
+  <img src="demo/orbit-hrms-demo.gif" alt="Orbit HRMS Demo" width="900"/>
+</p>
 
 # ✨ Features
 
