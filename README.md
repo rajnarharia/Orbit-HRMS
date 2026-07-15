@@ -12,6 +12,7 @@ A modern full-stack Human Resource Management System built with Node.js, Express
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js)
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+![Render](https://img.shields.io/badge/Render-Deployed-46E3B7?logo=render)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
@@ -39,6 +40,24 @@ The project follows a scalable full-stack architecture using React for the front
 </p>
 
 # ✨ Features
+
+## 📊 Feature Overview
+
+| Feature | Employee | Admin / HR |
+|---|:---:|:---:|
+| Secure Login & Authentication | ✅ | ✅ |
+| Personal Dashboard | ✅ | ✅ |
+| View & Update Profile | ✅ | ✅ |
+| Employee Management | ❌ | ✅ |
+| Attendance Check-In / Check-Out | ✅ | ✅ |
+| Attendance Monitoring | Own Records | All Employees |
+| Apply for Leave | ✅ | ✅ |
+| Approve / Reject Leave Requests | ❌ | ✅ |
+| View Payroll & Salary Details | ✅ | ✅ |
+| Manage Salary Components | ❌ | ✅ |
+| Resume & Skills Management | ✅ | ✅ |
+| Role-Based Access Control | ✅ | ✅ |
+| AI-Powered HR Assistant | ✅ | ✅ |
 
 ## 🔐 Authentication
 
