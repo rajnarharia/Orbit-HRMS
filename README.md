@@ -30,6 +30,10 @@ The project follows a scalable full-stack architecture using React for the front
 ---
 ## 🎥 Live Demo Preview
 
+## 🌐 Live Demo
+
+🚀 **Live Application:** https://orbit-hrms-frontend.onrender.com
+
 <p align="center">
   <img src="demo/orbit-hrms-demo.gif" alt="Orbit HRMS Demo" width="900"/>
 </p>
